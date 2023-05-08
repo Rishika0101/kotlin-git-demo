@@ -13,5 +13,14 @@ fun main(){
 
     val text2:String = null.toString()
     println("Without defining it as null: $text2")
+    
+     // Using non-null asserted operator or !! .
+    var nullableString: String? = "Hello, Coders!"
+    println("Length of the nullable string is: $nullableString")
+
+    nullableString = null
+
+   // println(nullableString!!.length) // This line will throw a NullPointerException
+
 
 }
