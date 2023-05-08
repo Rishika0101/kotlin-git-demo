@@ -4,7 +4,7 @@
 
 ##### What is null-safety?
 
-###### Null-safety defined as a procedure to eliminate the risk of null reference from the code. Kotlin compiler throws NullPointerException immediately if it found any null argument is passed whether it executes or not.
+##### Null-safety defined as a procedure to eliminate the risk of null reference from the code. Kotlin compiler throws NullPointerException immediately if it found any null argument is passed whether it executes or not.
 
 ##### There are two ways mentioned here,through we can handle it:
 
